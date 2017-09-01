@@ -23,7 +23,7 @@ You start with Level 1, which has a sequence of 3 LEDs. If you guess correctly, 
 1. AVR Studio 6 software
 2. 5 LEDs
 3. 5 buttons
-4. 5 330? resistors
+4. 5 330-ohm resistors
 5. A potentiometer
 6. 5V power supply
 7. ATMega1284 microcontroller
